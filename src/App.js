@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
       <div className="bg-custom  z-10 ">
+        
         <div className="bg-pattern-background h-screen z-20 bg-contain  bg-repeat-x ">
           <div className="container mx-auto   ">
             <div className="grid place-items-center z-30 h-screen">
