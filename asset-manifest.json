@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TailwindReact-Challenge1/static/css/main.23a2c2f3.css",
+    "main.js": "/TailwindReact-Challenge1/static/js/main.5abbbfc2.js",
+    "index.html": "/TailwindReact-Challenge1/index.html",
+    "static/media/pattern-background-desktop.svg": "/TailwindReact-Challenge1/static/media/pattern-background-desktop.5a0ab6898fc956557d00.svg",
+    "main.23a2c2f3.css.map": "/TailwindReact-Challenge1/static/css/main.23a2c2f3.css.map",
+    "main.5abbbfc2.js.map": "/TailwindReact-Challenge1/static/js/main.5abbbfc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a2c2f3.css",
+    "static/js/main.5abbbfc2.js"
+  ]
+}
